@@ -1,0 +1,13 @@
+scrapy
+scrapy-playwright
+pytz
+fake_useragent
+itemadapter
+matplotlib
+apscheduler
+flask
+pandas
+numpy
+joblib
+scikit-learn
+requests
